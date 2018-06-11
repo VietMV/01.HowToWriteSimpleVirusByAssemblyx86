@@ -22,7 +22,7 @@
 ;		.... In my case, I use notepad.exe for testing virus feature. I copy notepad.exe from C:\windows\ to folder of virus program and rename "notepad.exe" to "Example.exe"
 ;	
 ; If you are beginner and you don't understand any things about my virus code. It's normal things :). 
-;		Because, 6 year ago,  when i was a beginner, I like you. I also didn't understand any things and i was stressed however I had many supporting by seniors such as HoangNVc, DatPM, AnhNN, etc,. (Tks Bros <3). 
+;		Because, 6 year ago,  when i was a beginner, I like you. I also didn't understand any things and i was stressed however I had many supporting by seniors such as KhanhVD (Vo Duy Khanh), HoangNVc (Ngo Van Hoang), DatPM (Pham Minh Dat), AnhNN (Nguyen Ngoc Anh), TuanTNb (Trinh Nhat Tuan) etc,. (Tks Bros <3). 
 ;		So don't worry about any things. I will write some blog on medium and explain step by step for you. :)
 ;========================================================
 
