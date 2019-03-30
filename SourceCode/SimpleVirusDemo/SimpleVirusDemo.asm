@@ -1,7 +1,7 @@
 ;========================================================
 ; Author: 		VietMV (Mai Van Viet)
 ; Contact: If you have any question about this program, you can contact to me with: 
-; 		Medium:		https://medium.com/@vitmv
+; 		Medium:		https://medium.com/@vietmv
 ; 		Facebook:	https://www.facebook.com/profile.php?id=100001795912780
 ;		Email:		vietmv2703@gmail.com
 ;		Github:		https://github.com/VietMV
